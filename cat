@@ -1,0 +1,6 @@
+partner 2
+
+when do we ide `git pull`?
+every time after we finish writing `git merge`. after `git merge` u need to write `git pull` if u finish.
+
+4. we learn new commands. 
